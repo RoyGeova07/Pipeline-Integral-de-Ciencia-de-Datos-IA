@@ -1,7 +1,9 @@
 # Pipeline Integral de Ciencia de Datos & IA — Aprobación de Préstamos
 
 **Asignatura:** Ciencia de Datos / Inteligencia Artificial
+
 **Integrantes:** [Roy Umaña](https://github.com/RoyGeova07), [Jose Martin](https://github.com/jmartinrivera11), [Joseph Valerio](https://github.com/JackJack64-TURBO)
+
 **Dataset:** [Loan Approval Dataset (Kaggle)](https://www.kaggle.com/datasets/rohitgrewal/loan-approval-dataset?resource=download)
 
 ---
